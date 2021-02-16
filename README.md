@@ -1,5 +1,5 @@
 # Checkout-OC1.5
-Checkout maksumoduuli OpenCart 1.5 verkkokauppaohjelmistoon
+Checkout payment module for OpenCart 1.5 e-commerce software 
 
 FEATURES:
 - Uses new Checkout PSP API
